@@ -21,10 +21,6 @@ let package = Package(
             name: "DataDomeSDK",
             url: "https://package.datadome.co/ios/DataDomeSDK-2.5.4.zip",
             checksum: "b0b9bf243de7170bb335a3afd4c7b8b646852a137c658db0412b477454140c59"
-        ),
-        .testTarget(
-            name: "DataDomeSDKTests",
-            dependencies: ["DataDomeSDK"]
-        ),
+        )
     ]
 )
