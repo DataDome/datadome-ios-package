@@ -19,8 +19,8 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages which this package depends on.
         .binaryTarget(
             name: "DataDomeSDK",
-            url: "https://package.datadome.co/ios/DataDomeSDK-2.7.6.zip",
-            checksum: "50c08162e0377d59c2039604981401cc461606350cc4333ed2a4c59efa01fc93"
+            url: "https://package.datadome.co/ios/DataDomeSDK-2.7.7.zip",
+            checksum: "f2feb8e4db839e9eeff4967e1d58dc082482d87a997ab2970b250f2a85841134"
         )
     ]
 )
