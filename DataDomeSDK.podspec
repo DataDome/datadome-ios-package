@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name = "DataDomeSDK"
-    s.version = '3.7.0'
+    s.version = '3.7.0-alpha.0'
     s.license = { :type => 'MIT', :file => 'LICENSE' }
     s.summary = "An easy captcha integration SDK"
     s.description = "Protect your iOS application with DataDome. A light bot protection solution with built-in Captcha support."
