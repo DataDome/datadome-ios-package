@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
     s.documentation_url = 'https://docs.datadome.co/docs/sdk-ios'
     s.ios.deployment_target = '11.0'
     s.swift_version = '5'
-    s.source = { :http => 'https://package.datadome.co/ios/DataDomeSDK/3.8.5+build.7.zip' }
+    s.source = { :http => 'https://package.datadome.co/ios/DataDomeSDK/3.8.5%2Bbuild.7.zip' }
     s.vendored_frameworks = 'DataDomeSDK.xcframework'
     s.preserve_paths = 'DataDomeSDK.xcframework'
 end
